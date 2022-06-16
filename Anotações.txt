@@ -1,2 +1,10 @@
 Link para download do Git: https://git-scm.com/download/win
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+para add o caminho no git usar comando: git status para verificar os itens que precisam subir
+ e depois usar git add -a para subir todos.
+
+Status: git status 
+Considerados no controle de versão: git add -a
+Commit: git commit -m "inclusão das anotações do curso de Git/Github"
+Push: git push origin main
